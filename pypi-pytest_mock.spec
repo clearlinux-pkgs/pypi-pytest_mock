@@ -5,7 +5,7 @@
 #
 Name     : pypi-pytest_mock
 Version  : 3.11.1
-Release  : 19
+Release  : 20
 URL      : https://files.pythonhosted.org/packages/d8/2d/b3a811ec4fa24190a9ec5013e23c89421a7916167c6240c31fdc445f850c/pytest-mock-3.11.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d8/2d/b3a811ec4fa24190a9ec5013e23c89421a7916167c6240c31fdc445f850c/pytest-mock-3.11.1.tar.gz
 Summary  : Thin-wrapper around the mock package for easier use with pytest
