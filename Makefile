@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pytest_mock
-URL = https://files.pythonhosted.org/packages/b3/96/25588c55fbe330b751bd7c7d723c3544957566bc090f6d506551b514f488/pytest-mock-3.12.0.tar.gz
+URL = https://files.pythonhosted.org/packages/c6/90/a955c3ab35ccd41ad4de556596fa86685bf4fc5ffcc62d22d856cfd4e29a/pytest-mock-3.14.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
